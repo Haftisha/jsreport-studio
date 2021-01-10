@@ -34,7 +34,7 @@
     "build": "npm run build-eslint-browser && jsreport-studio-build --config webpack/prod.config.js --stats.modules=false"
   },
   "dependencies": {
-    "bluebird": "3.5.4",
+    "bluebird": "3.7.2",
     "compression": "1.7.4",
     "lodash": "4.17.15",
     "semaphore-async-await": "1.5.1",
